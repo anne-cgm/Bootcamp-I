@@ -18,11 +18,6 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 
 ---
 
-## Projetos
-
-
----
-
 ## Ferramentas que utilizo
  
 - Python (iniciante)  
