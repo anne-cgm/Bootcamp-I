@@ -11,9 +11,9 @@ Este script em Python converte um intervalo de temperaturas em Fahrenheit para C
    Caso contrário, é percorrido em ordem decrescente.
 3. Para cada valor de Fahrenheit no intervalo, o programa converte para Celsius utilizando a fórmula:
 
-\[
-°C = \frac{5 \times (°F - 32)}{9}
-\]
+\
+°C = 5 * (f - 32) / 9
+
 
 4. Os resultados são exibidos com formatação em colunas.
 
