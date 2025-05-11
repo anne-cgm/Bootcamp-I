@@ -1,4 +1,3 @@
-#Código que tem problema
 print('Digite [0] para sair')
 menor=999999999
 maior=-999999999
