@@ -34,4 +34,4 @@ Você acertou! Número de tentativas: 3
 
 ## 👩‍💻 Autoria
 
-Feito por **Anne Caroline Gonçalves de Mesquita** e **Anna Nicolly da Silva (https://github.com/Annans95)**.
+Feito por **Anne Caroline Gonçalves de Mesquita** e **[Anna Nicolly da Silva](https://github.com/Annans95)**.
