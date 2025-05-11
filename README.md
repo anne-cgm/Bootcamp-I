@@ -18,6 +18,11 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 
 ---
 
+## Projetos:
+
+- [Python](https://github.com/anne-cgm/Bootcamp-I/tree/main/Python)
+- [C](https://github.com/anne-cgm/Bootcamp-I/tree/main/C)
+
 ## Ferramentas que utilizo
  
 - Python (iniciante)  
