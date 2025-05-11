@@ -2,8 +2,6 @@
 
 # Portfólio Acadêmico – Anne Caroline Gonçalves de Mesquita
 
-# Anne Caroline Gonçalves de Mesquita
-
 Olá! Sou estudante de **Ciência da Computação**.
 
 Este repositório tem como objetivo organizar e apresentar meus projetos acadêmicos ao longo da graduação.
